@@ -156,7 +156,8 @@ Your PostgreSQL database is now ready.
 ### 1️⃣ Clone the repository
 
 ```bash
-
+https://github.com/DanielCast4/spendmind.git
+cd personal-expense-manager-api
 ```
 
 ### 2️⃣ Create a virtual environment
@@ -179,7 +180,7 @@ pip install -r requirements.txt
 uvicorn app.main:app --reload
 ```
 
-Access the interactive API docs: [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
+Access the interactive API docs: [http://127.0.0.1:8000/docs#/](http://127.0.0.1:8000/docs#/)
 
 ---
 
